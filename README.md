@@ -1,16 +1,20 @@
 ## About me
 
 - 👋 Hi, I’m @mjisu
-- 👀 I’m interested in **programming**
+- 👀 I’m interested in **i**
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... ~~act~~
-- 📫 How to reach me ... *audwltn03@sookmyung.ac.kr*
+- 💞️ I’m looking to collaborate on ... ~~i~~
+- 📫 How to reach me ... *i*
 
 ---
 
-> LALALA
->> YOYOYO
->>> HIHIHI
+> i
+>> i
+>>> i
+
+one|two|three
+:-------|:-------:|-------:
+1|2|3
 
 ```c
 #include<stdio.h>
